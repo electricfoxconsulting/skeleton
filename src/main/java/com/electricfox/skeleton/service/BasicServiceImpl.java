@@ -1,5 +1,8 @@
 package com.electricfox.skeleton.service;
 
+import org.springframework.stereotype.Service;
+
+@Service
 public class BasicServiceImpl implements BasicService{
     @Override
     public String basicServiceFunction() {

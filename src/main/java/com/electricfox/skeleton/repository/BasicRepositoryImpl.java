@@ -1,5 +1,8 @@
 package com.electricfox.skeleton.repository;
 
+import org.springframework.stereotype.Service;
+
+@Service
 public class BasicRepositoryImpl implements BasicRepository {
 
     @Override

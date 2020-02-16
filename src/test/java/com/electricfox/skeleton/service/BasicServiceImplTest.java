@@ -8,7 +8,7 @@ class BasicServiceImplTest {
 
     @Test
     void basicServiceFunction() {
-        
+
     }
 
     @Test
